@@ -1,0 +1,19 @@
+node_modules
+build/contracts
+console.txt
+secrets.json
+contracts/backup
+contracts/temp
+test/temp
+scripts/benchmark_dolph.js
+contracts/*.bak
+erc721s.code-workspace
+.DS_Store
+contracts/.DS_Store
+scripts/deploy2.js
+package-lock.json
+contracts/Lockable.sol
+
+#Hardhat files
+cache
+artifacts
